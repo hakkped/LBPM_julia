@@ -1,0 +1,6 @@
+/Manifest.toml
+raw_data/*
+velocities/*
+
+!raw_data/.gitkeep
+!velocities/.gitkeep
